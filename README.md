@@ -9,8 +9,7 @@ Machine learning researcher in medical imaging, focusing on neuroimaging biomark
 - Clinically meaningful and interpretable machine learning
 
 ## Selected Work
-- Self-supervised learning pipelines for brain MRI (SimCLR-based)
-- Multimodal fusion models combining imaging and genetic data
+- Self-supervised learning pipelines for brain MRI
 - Topographic analysis of WMH with respect to APOE genotype
 - Learning-curve–based methods to correct overoptimism in ML studies
 

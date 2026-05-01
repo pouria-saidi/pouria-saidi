@@ -3,7 +3,7 @@
 Machine learning researcher in medical imaging, focusing on neuroimaging biomarkers and reliable evaluation of ML models in healthcare.
 
 ## Research Focus
-- MRI-based biomarkers for Alzheimer’s disease and white matter hyperintensities (WMH)
+- MRI-based biomarkers for Alzheimer’s disease
 - Multimodal learning (T1, FLAIR, genetics, clinical variables)
 - Model evaluation, overfitting, and reproducibility in ML-driven science
 - Clinically meaningful and interpretable machine learning
